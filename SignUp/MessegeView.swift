@@ -137,6 +137,7 @@ struct Messege3_5: View {
 struct MessegeView_Previews: PreviewProvider {
     static var previews: some View {
         //MessegeView()
+        
         Messege2_5()
     }
 }

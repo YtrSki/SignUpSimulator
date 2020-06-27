@@ -15,7 +15,7 @@ struct SignUpView: View {
     var body: some View {
         NavigationView{
             VStack {
-                Image("topImage")
+                Image("TopImage")
                         .resizable()
                         .scaledToFill()
                         .edgesIgnoringSafeArea(.top)

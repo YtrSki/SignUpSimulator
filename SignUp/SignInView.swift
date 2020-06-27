@@ -144,5 +144,6 @@ struct AccountReset2: View {
 struct SignInView_Previews: PreviewProvider {
     static var previews: some View {
         SignInDone()
+        
     }
 }
